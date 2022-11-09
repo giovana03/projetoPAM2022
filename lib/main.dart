@@ -15,7 +15,8 @@ class MyApp extends StatelessWidget {
         accentColor: const Color(0xFFff3f3f),
         canvasColor: const Color(0xFF000000),
       ),
-      home: new MyHomePage(),
+      home: new MyHomePag,
+      <h2>oi<h2>
     );
   }
 }
